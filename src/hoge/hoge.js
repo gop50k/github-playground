@@ -1,2 +1,5 @@
 var a = 'aaa';
-console.log('aaa');
+console.log(a);
+
+var b = 'bbb';
+console.log(b);
